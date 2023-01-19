@@ -1,0 +1,163 @@
+
+B          799877
+G#m        466444
+A          577655 (barre)
+F#m        244222
+C          x32010
+Am         x02110
+Em/B       x22000
+F#m7/C#    x44200
+G#madd6    x66400
+Aadd2/E    x77600
+Badd4/F#   x99800
+A          x02220 (open)  
+Bsus4      x2220x
+B7         X21202
+F#add11/C# x44300
+
+
+Fig 1
+e--------------------------------------------
+B--------------------------------------------
+G--------------------------------------------
+D--------------------------------------------
+A-11-11-11--12--11--9---7---4-4-4-44-22-2-2--
+E-0--0--0-0-0-0-0-0-0-0-0-0-0-0-0-00-00-0-0--
+
+
+Fig 2
+e--------------------------0---0---0---0---0-
+B--------------------------0---0---0---0---0-
+G--------------------------9---8---6---8---6-
+D--------------------------9---9---7---9---7-
+A-11-11-11--12--11--9---7--0---0---0---0---0-
+E-0--0--0-0-0-0-0-0-0-0-0--------------------
+
+Fig 3
+e--------------------------0---0---0---0---0-
+B--------------------------0---0---0---0---0-
+G--------------------------9---8---6---8---3-
+D--------------------------9---9---7---9---4-
+A-11-11-11--12--11--9---7--0---0---0---0---4-
+E-0--0--0-0-0-0-0-0-0-0-0--------------------
+
+Fig 4
+e- -0---0---0---0--
+B---0---0---0---0--
+G---9---8---6---8--
+D---9---9---7---9--
+A---0---0---0---0--
+E------------------
+
+Verse 1
+Fig 1          
+It's an amazing smile
+Even the suit has teeth
+Fig 2
+Everything flash and guile
+Nothing underneath
+B          799877
+G#m        466444
+A          577655 (barre)
+F#m        244222
+C          x32010
+Am         x02110
+Em/B       x22000
+         B                      G#m             A
+Except a small black heart that no one sees but me
+F#m                 C             Am       Em/B C
+I've been watching, I can see you start to wonder
+
+
+
+E         B       G#m      C#m
+ Could it be that you need me
+
+F#m7/C#    x44200
+G#madd6    x66400
+Aadd2/E    x77600
+Badd4/F#   x99800
+   F#m7/C#  G#madd6 Aadd2/E Badd4/F#
+To keep you out, to run you faster
+
+E        B         G#m    C#m
+ Promise me you'll let me be
+
+F#m7/C#    x44200
+Bsus4      x2220x
+B7         X21202 
+
+    F#m7/C#  Bsus4    B7       F#m7/C#
+The one, the worst of all your enemies
+   Bsus4   B7       F#m7
+Pretending you're a friend to me
+Bsus4    B7       Fig 1
+Say that we'll be nemeses 
+
+Fig1 no lyrics
+
+Verse 2
+Fig 1      
+Being a brilliant man
+Going to great expense
+Fig 2
+Devising a master plan
+Doesn't make much sense
+           B                   G#m             A
+Unless you find the one you're destined to destroy
+F#m                  C                 Am    Em/B C
+Now that you're here I don't seem that crazy do I?
+
+E         B       G#m      C#m
+ Could it be that you need me
+   F#m7/C#  G#madd6 Aadd2/E Badd4/F#
+To keep you out, to run you faster
+E        B         G#m    C#m
+ Promise me you'll let me be
+    F#m7/C#  Bsus4    B7       F#m7/C#
+The one, the worst of all your enemies
+   Bsus4   B7       F#m7
+Pretending you're a friend to me
+Bsus4    B7       Fig 3
+Say that we'll be nemeses 
+
+Fig 3 no lyrics
+
+Bridge
+   F#11/C#
+Ah yes, my old friend
+          A              B7
+You are a master of this game
+            F#11/C#
+The hidden blade When you pretend
+               A
+That you don't even know my name
+Fig 4  Fig 1
+Well played
+
+Verse 3
+Fig 1
+Sometimes it's hard to tell
+If you even notice me
+Fig 2
+Maybe it's just as well
+It's better you don't see
+            B               G#m               A
+The way I'm running just to keep your back in view
+F#m            C               Am      Em/B  C
+In your shadow waiting for the perfect moment
+
+E         B       G#m      C#m
+ Could it be that you need me
+   F#m7/C#  G#madd6 Aadd2/E Badd4/F#
+To keep you out, to run you faster
+E        B         G#m    C#m
+ Promise me you'll let me be
+    F#m7/C#  Bsus4    B7        F#m7/C#
+The one, the worst of all your enemies
+   Bsus4      B7         F#m7
+Pretending you're a friend to me
+Bsus4    B7       Fig 1
+Say that we'll be nemeses
+
+Fig 3 End on F#11/C#
